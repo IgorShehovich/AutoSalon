@@ -3,7 +3,6 @@
 //import java.awt.*;
 //
 //public class Car {
-//dfdfdfdfdfdfdfdf
 // my comment
 //    private Fabrocator fabricator;
 //    private Color colour;
