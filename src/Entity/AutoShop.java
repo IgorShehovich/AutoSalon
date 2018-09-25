@@ -8,7 +8,7 @@ public class AutoShop {
    //Set<Car> salon = new Set()
 
     public static void main(String[] args) {
-//        Vector er=new Vector();
+        Vector er=new Vector();
 //        er.parallelStream().
 //        IgorInterfase var1=new IgorInterfase() {
 //            @Override
